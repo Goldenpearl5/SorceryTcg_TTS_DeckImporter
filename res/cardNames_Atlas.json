@@ -1,0 +1,627 @@
+{
+    "Annual Fair": [
+      "art/annual_fair_b_s.png",
+      "art/annual_fair_b_f.png"
+    ],
+    "Aqueduct": [
+      "bet/aqueduct_b_s.png",
+      "bet/aqueduct_b_f.png",
+      "alp/aqueduct_b_s.png",
+      "alp/aqueduct_b_f.png"
+    ],
+    "Arid Desert": [
+      "bet/arid_desert_b_s.png",
+      "bet/arid_desert_b_f.png",
+      "alp/arid_desert_b_s.png",
+      "alp/arid_desert_d_s.png",
+      "alp/arid_desert_b_f.png"
+    ],
+    "Astral Alcazar": [
+      "bet/astral_alcazar_b_s.png",
+      "bet/astral_alcazar_b_f.png",
+      "alp/astral_alcazar_b_s.png",
+      "alp/astral_alcazar_b_f.png"
+    ],
+    "Autumn River": [
+      "bet/autumn_river_b_s.png",
+      "bet/autumn_river_b_f.png",
+      "alp/autumn_river_b_s.png",
+      "alp/autumn_river_d_s.png",
+      "alp/autumn_river_b_f.png"
+    ],
+    "Avalon": [
+      "art/avalon_b_s.png",
+      "art/avalon_b_f.png"
+    ],
+    "Babbling Brook": [
+      "art/babbling_brook_b_s.png",
+      "art/babbling_brook_b_f.png"
+    ],
+    "Battlefield": [
+      "bet/battlefield_b_s.png",
+      "bet/battlefield_b_f.png",
+      "alp/battlefield_b_s.png",
+      "alp/battlefield_b_f.png"
+    ],
+    "Beacon": [
+      "art/beacon_b_s.png",
+      "art/beacon_b_f.png"
+    ],
+    "Bedrock": [
+      "bet/bedrock_b_s.png",
+      "bet/bedrock_b_f.png",
+      "alp/bedrock_b_s.png",
+      "alp/bedrock_b_f.png"
+    ],
+    "Bog": [
+      "art/bog_b_s.png",
+      "art/bog_b_f.png"
+    ],
+    "Boneyard": [
+      "bet/boneyard_b_s.png",
+      "bet/boneyard_b_f.png",
+      "alp/boneyard_b_s.png",
+      "alp/boneyard_b_f.png"
+    ],
+    "Bonfire": [
+      "art/bonfire_b_s.png",
+      "art/bonfire_b_f.png"
+    ],
+    "Bottomless Pit": [
+      "bet/bottomless_pit_b_s.png",
+      "bet/bottomless_pit_b_f.png",
+      "alp/bottomless_pit_b_s.png",
+      "alp/bottomless_pit_d_s.png",
+      "alp/bottomless_pit_b_f.png"
+    ],
+    "Bower of Bliss": [
+      "art/bower_of_bliss_b_s.png",
+      "art/bower_of_bliss_b_f.png"
+    ],
+    "Briar Patch": [
+      "art/briar_patch_b_s.png",
+      "art/briar_patch_b_f.png"
+    ],
+    "Broc\u00c3\u00a9liande": [
+      "art/broceliande_b_s.png",
+      "art/broceliande_b_f.png"
+    ],
+    "Caerleon-Upon-Usk": [
+      "art/caerleon_upon_usk_b_s.png",
+      "art/caerleon_upon_usk_b_f.png"
+    ],
+    "Camelot": [
+      "art/camelot_b_s.png",
+      "art/camelot_b_f.png"
+    ],
+    "Cloud City": [
+      "bet/cloud_city_b_s.png",
+      "bet/cloud_city_b_f.png",
+      "bet/cloud_city_p_f.png",
+      "alp/cloud_city_b_s.png",
+      "alp/cloud_city_d_s.png",
+      "alp/cloud_city_b_f.png"
+    ],
+    "Common Village": [
+      "art/common_village_b_s.png",
+      "art/common_village_b_f.png"
+    ],
+    "Cornerstone": [
+      "bet/cornerstone_b_s.png",
+      "bet/cornerstone_b_f.png",
+      "alp/cornerstone_b_s.png",
+      "alp/cornerstone_d_s.png",
+      "alp/cornerstone_b_f.png"
+    ],
+    "Crossroads": [
+      "bet/crossroads_b_s.png",
+      "bet/crossroads_b_f.png",
+      "alp/crossroads_b_s.png",
+      "alp/crossroads_b_f.png"
+    ],
+    "Cursed Land": [
+      "art/cursed_land_b_s.png",
+      "art/cursed_land_b_f.png"
+    ],
+    "Dark Tower": [
+      "bet/dark_tower_b_s.png",
+      "bet/dark_tower_b_f.png",
+      "alp/dark_tower_b_s.png",
+      "alp/dark_tower_d_s.png",
+      "alp/dark_tower_b_f.png"
+    ],
+    "Dome of Osiros": [
+      "bet/dome_of_osiros_b_s.png",
+      "bet/dome_of_osiros_b_f.png",
+      "alp/dome_of_osiros_b_s.png",
+      "alp/dome_of_osiros_b_f.png"
+    ],
+    "Donnybrook Inn": [
+      "bet/donnybrook_inn_b_s.png",
+      "bet/donnybrook_inn_b_f.png",
+      "alp/donnybrook_inn_b_s.png",
+      "alp/donnybrook_inn_b_f.png"
+    ],
+    "Dozmary Pool": [
+      "art/dozmary_pool_b_s.png",
+      "art/dozmary_pool_b_f.png"
+    ],
+    "Dragonlord's Lair": [
+      "dra/dragonlords_lair_b_s.png",
+      "dra/dragonlords_lair_b_f.png"
+    ],
+    "Dwarven Forge": [
+      "bet/dwarven_forge_b_s.png",
+      "bet/dwarven_forge_b_f.png",
+      "alp/dwarven_forge_b_s.png",
+      "alp/dwarven_forge_b_f.png"
+    ],
+    "Edge of the World": [
+      "bet/edge_of_the_world_b_s.png",
+      "bet/edge_of_the_world_b_f.png",
+      "alp/edge_of_the_world_b_s.png",
+      "alp/edge_of_the_world_b_f.png"
+    ],
+    "Fae City": [
+      "art/fae_city_b_s.png",
+      "art/fae_city_b_f.png"
+    ],
+    "Fields of Camlann": [
+      "art/fields_of_camlann_b_s.png",
+      "art/fields_of_camlann_b_f.png"
+    ],
+    "Floodplain": [
+      "bet/floodplain_b_s.png",
+      "bet/floodplain_b_f.png",
+      "alp/floodplain_b_s.png",
+      "alp/floodplain_d_s.png",
+      "alp/floodplain_b_f.png"
+    ],
+    "Forge": [
+      "art/forge_b_s.png",
+      "art/forge_b_f.png"
+    ],
+    "Free City": [
+      "bet/free_city_b_s.png",
+      "bet/free_city_b_f.png",
+      "alp/free_city_b_s.png",
+      "alp/free_city_b_f.png"
+    ],
+    "Funeral Pyre": [
+      "art/funeral_pyre_b_s.png",
+      "art/funeral_pyre_b_f.png"
+    ],
+    "Glastonbury Tor": [
+      "art/glastonbury_tor_b_s.png",
+      "art/glastonbury_tor_b_f.png"
+    ],
+    "Gnome Hollows": [
+      "bet/gnome_hollows_b_s.png",
+      "bet/gnome_hollows_b_f.png",
+      "alp/gnome_hollows_b_s.png",
+      "alp/gnome_hollows_b_f.png"
+    ],
+    "Gothic Tower": [
+      "bet/gothic_tower_b_s.png",
+      "bet/gothic_tower_b_f.png",
+      "alp/gothic_tower_b_s.png",
+      "alp/gothic_tower_d_s.png",
+      "alp/gothic_tower_b_f.png"
+    ],
+    "Great Wall": [
+      "bet/great_wall_b_s.png",
+      "bet/great_wall_b_f.png",
+      "alp/great_wall_b_s.png",
+      "alp/great_wall_b_f.png"
+    ],
+    "Hamlet": [
+      "art/hamlet_b_s.png",
+      "art/hamlet_b_f.png"
+    ],
+    "Holy Ground": [
+      "bet/holy_ground_b_s.png",
+      "bet/holy_ground_b_f.png",
+      "alp/holy_ground_b_s.png",
+      "alp/holy_ground_d_s.png",
+      "alp/holy_ground_b_f.png"
+    ],
+    "Humble Village": [
+      "bet/humble_village_b_s.png",
+      "bet/humble_village_b_f.png",
+      "alp/humble_village_b_s.png",
+      "alp/humble_village_d_s.png",
+      "alp/humble_village_b_f.png"
+    ],
+    "Hunter's Lodge": [
+      "art/hunters_lodge_b_s.png",
+      "art/hunters_lodge_b_f.png"
+    ],
+    "Iceberg": [
+      "bet/iceberg_b_s.png",
+      "bet/iceberg_b_f.png",
+      "alp/iceberg_b_s.png",
+      "alp/iceberg_b_f.png"
+    ],
+    "Impenetrable Copse": [
+      "art/impenetrable_copse_b_s.png",
+      "art/impenetrable_copse_b_f.png"
+    ],
+    "Imperial Road": [
+      "bet/imperial_road_b_s.png",
+      "bet/imperial_road_b_f.png",
+      "alp/imperial_road_b_s.png",
+      "alp/imperial_road_b_f.png"
+    ],
+    "Island Leviathan": [
+      "bet/island_leviathan_b_s.png",
+      "bet/island_leviathan_b_f.png",
+      "alp/island_leviathan_b_s.png",
+      "alp/island_leviathan_d_s.png",
+      "alp/island_leviathan_b_f.png"
+    ],
+    "Joyous Garde": [
+      "art/joyous_garde_b_s.png",
+      "art/joyous_garde_b_f.png"
+    ],
+    "Kelp Cavern": [
+      "art/kelp_cavern_b_s.png",
+      "art/kelp_cavern_b_f.png"
+    ],
+    "Kingdom of Agartha": [
+      "bet/kingdom_of_agartha_b_s.png",
+      "bet/kingdom_of_agartha_b_f.png",
+      "alp/kingdom_of_agartha_b_s.png",
+      "alp/kingdom_of_agartha_b_f.png"
+    ],
+    "Leyline Henge": [
+      "art/leyline_henge_b_s.png",
+      "art/leyline_henge_b_f.png"
+    ],
+    "Lighthouse": [
+      "bet/lighthouse_b_s.png",
+      "bet/lighthouse_b_f.png",
+      "alp/lighthouse_b_s.png",
+      "alp/lighthouse_b_f.png"
+    ],
+    "Lone Tower": [
+      "bet/lone_tower_b_s.png",
+      "bet/lone_tower_b_f.png",
+      "alp/lone_tower_b_s.png",
+      "alp/lone_tower_d_s.png",
+      "alp/lone_tower_b_f.png"
+    ],
+    "Lookout": [
+      "art/lookout_b_s.png",
+      "art/lookout_b_f.png"
+    ],
+    "Maelstr\u00c3\u00b6m": [
+      "bet/maelstrom_b_s.png",
+      "bet/maelstrom_b_f.png",
+      "alp/maelstrom_b_s.png",
+      "alp/maelstrom_d_s.png",
+      "alp/maelstrom_b_f.png"
+    ],
+    "Major City": [
+      "art/major_city_b_s.png",
+      "art/major_city_b_f.png"
+    ],
+    "Merlin's Tower": [
+      "art/merlins_tower_b_s.png",
+      "art/merlins_tower_b_f.png"
+    ],
+    "Mirage": [
+      "bet/mirage_b_s.png",
+      "bet/mirage_b_f.png",
+      "alp/mirage_b_s.png",
+      "alp/mirage_b_f.png"
+    ],
+    "Mirror Realm": [
+      "bet/mirror_realm_b_s.png",
+      "bet/mirror_realm_b_f.png",
+      "alp/mirror_realm_b_s.png",
+      "alp/mirror_realm_b_f.png"
+    ],
+    "Mountain Pass": [
+      "bet/mountain_pass_b_s.png",
+      "bet/mountain_pass_b_f.png",
+      "alp/mountain_pass_b_s.png",
+      "alp/mountain_pass_d_s.png",
+      "alp/mountain_pass_b_f.png"
+    ],
+    "Mudflow": [
+      "bet/mudflow_b_s.png",
+      "bet/mudflow_b_f.png",
+      "alp/mudflow_b_s.png",
+      "alp/mudflow_b_f.png"
+    ],
+    "Oasis": [
+      "bet/oasis_b_s.png",
+      "bet/oasis_b_f.png",
+      "alp/oasis_b_s.png",
+      "alp/oasis_b_f.png"
+    ],
+    "Observatory": [
+      "bet/observatory_b_s.png",
+      "bet/observatory_b_f.png",
+      "alp/observatory_b_s.png",
+      "alp/observatory_d_s.png",
+      "alp/observatory_b_f.png"
+    ],
+    "Pebbled Paths": [
+      "art/pebbled_paths_b_s.png",
+      "art/pebbled_paths_b_f.png"
+    ],
+    "Perilous Bridge": [
+      "art/perilous_bridge_b_s.png",
+      "art/perilous_bridge_b_f.png"
+    ],
+    "Pillar of Zeiros": [
+      "bet/pillar_of_zeiros_b_s.png",
+      "bet/pillar_of_zeiros_b_f.png",
+      "alp/pillar_of_zeiros_b_s.png",
+      "alp/pillar_of_zeiros_b_f.png"
+    ],
+    "Planar Gate": [
+      "bet/planar_gate_b_s.png",
+      "bet/planar_gate_b_f.png",
+      "alp/planar_gate_b_s.png",
+      "alp/planar_gate_b_f.png"
+    ],
+    "Poisoned Well": [
+      "art/poisoned_well_b_s.png",
+      "art/poisoned_well_b_f.png"
+    ],
+    "Pond": [
+      "art/pond_b_s.png",
+      "art/pond_b_f.png"
+    ],
+    "Postern Gate": [
+      "art/postern_gate_b_s.png",
+      "art/postern_gate_b_f.png"
+    ],
+    "Primordial Spring": [
+      "bet/primordial_spring_b_s.png",
+      "bet/primordial_spring_b_f.png",
+      "alp/primordial_spring_b_s.png",
+      "alp/primordial_spring_b_f.png"
+    ],
+    "Pristine Paradise": [
+      "bet/pristine_paradise_b_s.png",
+      "bet/pristine_paradise_b_f.png",
+      "alp/pristine_paradise_b_s.png",
+      "alp/pristine_paradise_b_f.png"
+    ],
+    "Quagmire": [
+      "bet/quagmire_b_s.png",
+      "bet/quagmire_b_f.png",
+      "alp/quagmire_b_s.png",
+      "alp/quagmire_d_s.png",
+      "alp/quagmire_b_f.png"
+    ],
+    "Red Desert": [
+      "bet/red_desert_b_s.png",
+      "bet/red_desert_b_f.png",
+      "alp/red_desert_b_s.png",
+      "alp/red_desert_d_s.png",
+      "alp/red_desert_b_f.png"
+    ],
+    "Remote Desert": [
+      "bet/remote_desert_b_s.png",
+      "bet/remote_desert_b_f.png",
+      "alp/remote_desert_b_s.png",
+      "alp/remote_desert_d_s.png",
+      "alp/remote_desert_b_f.png"
+    ],
+    "Rift Valley": [
+      "bet/rift_valley_b_s.png",
+      "bet/rift_valley_b_f.png",
+      "alp/rift_valley_b_s.png",
+      "alp/rift_valley_b_f.png"
+    ],
+    "River of Flame": [
+      "bet/river_of_flame_b_s.png",
+      "bet/river_of_flame_b_f.png",
+      "alp/river_of_flame_b_s.png",
+      "alp/river_of_flame_d_s.png",
+      "alp/river_of_flame_b_f.png"
+    ],
+    "Roots of Yggdrasil": [
+      "bet/roots_of_yggdrasil_b_s.png",
+      "bet/roots_of_yggdrasil_b_f.png",
+      "alp/roots_of_yggdrasil_b_s.png",
+      "alp/roots_of_yggdrasil_b_f.png"
+    ],
+    "Ruins": [
+      "bet/ruins_b_s.png",
+      "bet/ruins_b_f.png",
+      "alp/ruins_b_s.png",
+      "alp/ruins_b_f.png"
+    ],
+    "Rustic Village": [
+      "bet/rustic_village_b_s.png",
+      "bet/rustic_village_b_f.png",
+      "alp/rustic_village_b_s.png",
+      "alp/rustic_village_d_s.png",
+      "alp/rustic_village_b_f.png"
+    ],
+    "Secret Tunnel": [
+      "bet/secret_tunnel_b_s.png",
+      "bet/secret_tunnel_b_f.png",
+      "alp/secret_tunnel_b_s.png",
+      "alp/secret_tunnel_b_f.png"
+    ],
+    "Shifting Sands": [
+      "bet/shifting_sands_b_s.png",
+      "bet/shifting_sands_b_f.png",
+      "alp/shifting_sands_b_s.png",
+      "alp/shifting_sands_d_s.png",
+      "alp/shifting_sands_b_f.png"
+    ],
+    "Simple Village": [
+      "bet/simple_village_b_s.png",
+      "bet/simple_village_b_f.png",
+      "alp/simple_village_b_s.png",
+      "alp/simple_village_d_s.png",
+      "alp/simple_village_b_f.png"
+    ],
+    "Sinkhole": [
+      "bet/sinkhole_b_s.png",
+      "bet/sinkhole_b_f.png",
+      "alp/sinkhole_b_s.png",
+      "alp/sinkhole_b_f.png"
+    ],
+    "Smokestacks of Gnaak": [
+      "bet/smokestacks_of_gnaak_b_s.png",
+      "bet/smokestacks_of_gnaak_b_f.png",
+      "alp/smokestacks_of_gnaak_b_s.png",
+      "alp/smokestacks_of_gnaak_b_f.png"
+    ],
+    "Spire": [
+      "bet/spire_dk_s.png"
+    ],
+    "Spring River": [
+      "bet/spring_river_b_s.png",
+      "bet/spring_river_b_f.png",
+      "alp/spring_river_b_s.png",
+      "alp/spring_river_d_s.png",
+      "alp/spring_river_b_f.png"
+    ],
+    "Standing Stones": [
+      "bet/standing_stones_b_s.png",
+      "bet/standing_stones_b_f.png",
+      "alp/standing_stones_b_s.png",
+      "alp/standing_stones_d_s.png",
+      "alp/standing_stones_b_f.png"
+    ],
+    "Steppe": [
+      "bet/steppe_b_s.png",
+      "bet/steppe_b_f.png",
+      "alp/steppe_b_s.png",
+      "alp/steppe_b_f.png"
+    ],
+    "Stream": [
+      "bet/stream_dk_s.png"
+    ],
+    "Summer River": [
+      "bet/summer_river_b_s.png",
+      "bet/summer_river_b_f.png",
+      "alp/summer_river_b_s.png",
+      "alp/summer_river_d_s.png",
+      "alp/summer_river_b_f.png"
+    ],
+    "Tadpole Pool": [
+      "bet/tadpole_pool_b_s.png",
+      "bet/tadpole_pool_b_f.png",
+      "alp/tadpole_pool_b_s.png",
+      "alp/tadpole_pool_d_s.png",
+      "alp/tadpole_pool_b_f.png"
+    ],
+    "The Colour Out of Space": [
+      "bet/the_colour_out_of_space_b_s.png",
+      "bet/the_colour_out_of_space_b_f.png",
+      "bet/the_colour_out_of_space_p_f.png",
+      "alp/the_colour_out_of_space_b_s.png",
+      "alp/the_colour_out_of_space_b_f.png"
+    ],
+    "The Geistwood": [
+      "bet/the_geistwood_b_s.png",
+      "bet/the_geistwood_b_f.png",
+      "alp/the_geistwood_b_s.png",
+      "alp/the_geistwood_b_f.png"
+    ],
+    "Tintagel": [
+      "art/tintagel_b_s.png",
+      "art/tintagel_b_f.png"
+    ],
+    "Tournament Grounds": [
+      "art/tournament_grounds_b_s.png",
+      "art/tournament_grounds_b_f.png"
+    ],
+    "Town": [
+      "art/town_b_s.png",
+      "art/town_b_f.png"
+    ],
+    "Treetop Hideout": [
+      "art/treetop_hideout_b_s.png",
+      "art/treetop_hideout_b_f.png"
+    ],
+    "Troll Bridge": [
+      "art/troll_bridge_b_s.png",
+      "art/troll_bridge_b_f.png"
+    ],
+    "Undertow": [
+      "bet/undertow_b_s.png",
+      "bet/undertow_b_f.png",
+      "alp/undertow_b_s.png",
+      "alp/undertow_d_s.png",
+      "alp/undertow_b_f.png"
+    ],
+    "Updraft Ridge": [
+      "bet/updraft_ridge_b_s.png",
+      "bet/updraft_ridge_b_f.png",
+      "alp/updraft_ridge_b_s.png",
+      "alp/updraft_ridge_d_s.png",
+      "alp/updraft_ridge_b_f.png"
+    ],
+    "Valley": [
+      "bet/valley_dk_s.png"
+    ],
+    "Valley of Delight": [
+      "art/valley_of_delight_b_s.png",
+      "art/valley_of_delight_b_f.png"
+    ],
+    "Vantage Hills": [
+      "bet/vantage_hills_b_s.png",
+      "bet/vantage_hills_b_f.png",
+      "alp/vantage_hills_b_s.png",
+      "alp/vantage_hills_d_s.png",
+      "alp/vantage_hills_b_f.png"
+    ],
+    "Varmint Warrens": [
+      "art/varmint_warrens_b_s.png",
+      "art/varmint_warrens_b_f.png"
+    ],
+    "Vaults of Zul": [
+      "bet/vaults_of_zul_b_s.png",
+      "bet/vaults_of_zul_b_f.png",
+      "alp/vaults_of_zul_b_s.png",
+      "alp/vaults_of_zul_b_f.png"
+    ],
+    "Vesuvius": [
+      "bet/vesuvius_b_s.png",
+      "bet/vesuvius_b_f.png",
+      "alp/vesuvius_b_s.png",
+      "alp/vesuvius_d_s.png",
+      "alp/vesuvius_b_f.png"
+    ],
+    "Wasteland": [
+      "bet/wasteland_dk_s.png"
+    ],
+    "Watchtower": [
+      "bet/watchtower_b_s.png",
+      "bet/watchtower_b_f.png",
+      "alp/watchtower_b_s.png",
+      "alp/watchtower_b_f.png"
+    ],
+    "Wedding Hall": [
+      "art/wedding_hall_b_s.png",
+      "art/wedding_hall_b_f.png"
+    ],
+    "Windmill": [
+      "bet/windmill_b_s.png",
+      "bet/windmill_b_f.png",
+      "alp/windmill_b_s.png",
+      "alp/windmill_b_f.png"
+    ],
+    "Winter River": [
+      "alp/winter_river_bt_f.png"
+    ],
+    "Wizard's Den": [
+      "art/wizards_den_b_s.png",
+      "art/wizards_den_b_f.png"
+    ],
+    "Wormelow Tump": [
+      "art/wormelow_tump_b_s.png",
+      "art/wormelow_tump_b_f.png"
+    ]
+  }

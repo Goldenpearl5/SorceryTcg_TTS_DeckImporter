@@ -1,0 +1,106 @@
+{
+    "Archimago": [
+        "art/archimago_b_s.png",
+        "art/archimago_b_f.png"
+    ],
+    "Avatar of Air": [
+        "alp/avatar_of_air_d_s.png",
+        "alp/avatar_of_air_b_f.png"
+    ],
+    "Avatar of Earth": [
+        "alp/avatar_of_earth_d_s.png",
+        "alp/avatar_of_earth_b_f.png"
+    ],
+    "Avatar of Fire": [
+        "alp/avatar_of_fire_d_s.png",
+        "alp/avatar_of_fire_b_f.png"
+    ],
+    "Avatar of Water": [
+        "alp/avatar_of_water_d_s.png",
+        "alp/avatar_of_water_d_s.png"
+    ],
+    "Battlemage": [
+        "bet/battlemage_b_s.png",
+        "bet/battlemage_b_f.png",
+        "alp/battlemage_b_s.png",
+        "alp/battlemage_b_f.png"
+    ],
+    "Deathspeaker": [
+        "bet/deathspeaker_b_s.png",
+        "bet/deathspeaker_b_f.png",
+        "alp/deathspeaker_b_s.png",
+        "alp/deathspeaker_b_f.png"
+    ],
+    "Dragonlord": [
+        "dra/dragonlord_b_s.png",
+        "dra/dragonlord_b_f.png"
+    ],
+    "Druid": [
+        "art/druid_bt_s.png",
+        "art/druid_bt_s_r.png"
+    ],
+    "Elementalist": [
+        "bet/elementalist_b_s.png",
+        "bet/elementalist_b_f.png",
+        "alp/elementalist_b_s.png",
+        "alp/elementalist_b_f.png"
+    ],
+    "Enchantress": [
+        "bet/enchantress_b_s.png",
+        "bet/enchantress_b_f.png",
+        "alp/enchantress_b_s.png",
+        "alp/enchantress_b_f.png"
+    ],
+    "Flamecaller": [
+        "bet/flamecaller_b_s.png",
+        "bet/flamecaller_b_f.png"
+    ],
+    "Geomancer": [
+        "bet/geomancer_b_s.png",
+        "bet/geomancer_b_f.png"
+    ],
+    "Pathfinder": [
+        "bet/pathfinder_b_s.png",
+        "bet/pathfinder_b_f.png",
+        "alp/pathfinder_b_s.png",
+        "alp/pathfinder_b_f.png"
+    ],
+    "Seer": [
+        "bet/seer_b_s.png",
+        "bet/seer_b_f.png",
+        "alp/seer_b_s.png",
+        "alp/seer_b_f.png"
+    ],
+    "Sorcerer": [
+        "art/sorcerer_sk_f.png",
+        "bet/sorcerer_b_s.png",
+        "bet/sorcerer_b_f.png",
+        "bet/sorcerer_bt_f.png",
+        "bet/sorcerer_p_f.png",
+        "alp/sorcerer_b_s.png",
+        "alp/sorcerer_pp_s.png",
+        "alp/sorcerer_b_f.png",
+        "alp/sorcerer_bt_f.png"
+    ],
+    "Sparkmage": [
+        "bet/sparkmage_b_s.png",
+        "bet/sparkmage_b_f.png"
+    ],
+    "Spellslinger": [
+        "bet/spellslinger_dk_s.png",
+        "bet/spellslinger_p_f.png"
+    ],
+    "Templar": [
+        "art/templar_bt_s.png",
+        "art/templar_b_f.png"
+    ],
+    "Waveshaper": [
+        "bet/waveshaper_b_s.png",
+        "bet/waveshaper_b_f.png"
+    ],
+    "Witch": [
+        "art/witch_b_s.png",
+        "art/witch_p_s.png",
+        "art/witch_b_f.png"
+    ]
+}
