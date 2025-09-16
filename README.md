@@ -1,13 +1,17 @@
 This project will automatically import your Sorcery TCG decklist into Tabletop Simulator.
 
 Getting Started:
+----------------------------------------
 1. Create a text file containing your Sorcery decklist. Follow the format shown in sampleDeck.txt
 2. Edit sorcery_config.py to contain the path to your decklist. (PATH_TO_DECK_LIST="")
 3. Run the Python script.
 4. Open Tabletop Simulator and check your saved objects. You should have three new saved objects: An avatar, an atlas deck, and a spell deck.
 
+Have fun!
 
-Troubleshooting:
+Troubleshooting
+----------------------------------------
+
 1. Script does not run
     - Make sure python is installed
     - Run the following command in your console: ```pip install pillow```, then try again.
@@ -21,4 +25,5 @@ Troubleshooting:
 4. Other issues
     - Make sure all card names are spelled correctly in the deck list
     - Make sure you are not trying to overwrite a file that already exists; I disabled this to prevent accidents
+
 
